@@ -7,6 +7,12 @@
 -Ссылка на яндекс карту
 //
 
+--------
+КАРТА ВСЕГО
+https://yandex.ru/maps/?um=constructor%3A7efbb32d84fb7ffc2c9fe82449505d37bdd8c7b953883ac49e6f7bd884302787&source=constructorLink
+
+<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A7efbb32d84fb7ffc2c9fe82449505d37bdd8c7b953883ac49e6f7bd884302787&amp;width=100%25&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
+--------
 
 ----1----
 
@@ -26,7 +32,7 @@
 На торжественном открытии присутствовал принц (а ныне — король) Виллем-Александр.
 
 Ссылка на яндекс карты:
-<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Addbcb99b4cc70ebc5465b8b7eb339d0ce4f6333c0e5a8004bd40f18ecf3ccc6d&amp;width=500&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
+<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Ac5a840ba33b6f49a99d166a430cc83e78962f015969dd31f87103e691f63ecab&amp;width=100%25&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
 
 ----2----
 
@@ -46,7 +52,7 @@
 Скульптуру в сквере установили в 1952 году. Для постамента использовались гранитные блоки, оставшиеся после сноса монумента Александру III на Знаменской площади.
 
 Ссылка на яндекс карты:
-<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A274a92128f81a24491ad3418dd404469da84e29a82de753550971de762b09ab6&amp;width=500&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
+<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A097f71ea74ec97632a96a8a3de46218f88729e1d265325c2e4d3a62661671548&amp;width=100%25&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
 
 ----3----
 
@@ -61,12 +67,12 @@
 В наше время рядом с ним петербуржцы назначают друг другу встречи.
 
 Ссылка на яндекс карты:
-<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Aabb25290687f44193e4a56e26f88491ebc97b0171f29ffb5cedb74d0bbe1d324&amp;width=500&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
+<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A4573e1de7fd5ba8a494d81c60d887e75f6518ad8a1c48d2382a650fadec80a6a&amp;width=100%25&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
 
 ----4----
 
 Название:
-"Стрегущий"
+"Стерегущий"
 
 Описание:
 В 1904 году в разгар Русско-японской войны на разведку у берегов Жёлтого моря близ русской военно-морской базы Порт-Артур вышли два миноносца: «Решительный» и «Стерегущий».
@@ -79,7 +85,7 @@
 Он посвящён экипажу корабля «Стерегущий» и изображает кульминационный и самый драматичный момент роковой схватки: затопление судна.
 
 Ссылка на яндекс карты:
-<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A0acfda90acc552121cd2e908eff95c8090b4ffe74d5670eb553e8a8d3b50415a&amp;width=500&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
+<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Ae1be24d78654f2eb675e2240272b7abc2cddec28193b0762c927f180cbfed557&amp;width=100%25&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
 
 ----5----
 
@@ -97,12 +103,12 @@
 Наверху возвышается 48-метровый обелиск, а под землёй расположен Памятный зал с экспонатами, посвящёнными блокаде и обороне Ленинграда.
 
 Ссылка на яндекс карты:
-<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Aaf189c8244ebfcbd2b6803e46108c3337c7e1af2d566830e0d419619d7d0c02f&amp;width=500&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
+<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Ad4478fc4ab486b429761be03e7cbcc6f14d203331ccdff3bd112d1ac5e6abc07&amp;width=100%25&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
 
 ----6----
 
 Название:
-Памятник Ломоносову
+Памятник М.В. Ломоносову
 
 Описание:
 Монумент русскому учёному возвели в Санкт-Петербурге в 1968 году в честь 275-летия со дня его рождения. 
@@ -113,7 +119,7 @@
 затем начал преподавать в альма-матер географию, стилистику русского языка, химию и основы металлургии, физику и, наконец, стал ректором.
 
 Ссылка на яндекс карты:
-<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A857f6124ce8b02613400d570845db722bc54954bd1cc87c014916fde5fa1ebf0&amp;width=500&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
+<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A00a96c493fe78be3474bc093bf9badacd38a480d21d731e77a47cd3bd200d88c&amp;width=100%25&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
 
 ----7----
 
@@ -132,7 +138,7 @@
 Здесь можно загадать желание: говорят, если брошенная вниз монетка останется на постаменте скульптуры, мечта точно сбудется.
 
 Ссылка на яндекс карты:
-<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Aeac03eebb0b48409dd39e134c4c2573941f3c0b78181b168d6f9ddf32e9fcc18&amp;width=500&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
+<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A1d4dad76397eda6eb57d4eb6e3884f002a733b22e0e16146ddbe52780844554b&amp;width=100%25&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
 
 ----8----
 
@@ -149,7 +155,7 @@
 Памятник Ленину у Финляндского вокзала имеет статус объекта культурного наследия федерального значения.
 
 Ссылка на яндекс карты:
-<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Adeef8d7f8c2b42390c25d5b8f013a48ebad9953de163679d585c1c5307294534&amp;width=500&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
+<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A6ec2fad18b37f581acb5b73daa7730c06ffba4354d6c552ba1935234284531ea&amp;width=100%25&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
 
 ----9----
 
@@ -166,7 +172,7 @@
 Бронзовая скульптура была отлита на заводе «Монументскульптура». Торжественное открытие памятника состоялось 22 апреля 1970 года — в день столетия со дня рождения В. И. Ленина
 
 Ссылка на яндекс карты:
-<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A2f6bb2caffe74dced0217d1f918366a144b27caf4a26ab8d2f9a952952734eaa&amp;width=500&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
+<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A8458915c09a4bf131b1f1fba69c22584ad969b5981cfa502fd8b7ac00b9a7139&amp;width=100%25&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
 
 ----10----
 
@@ -178,12 +184,12 @@
 ???
 
 Ссылка на яндекс карты:
-<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Aeb0e4cb85f92e56e512828344c37e1f8fb0dfc15b504cda1fbdc70bdb3e37b11&amp;width=500&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
+<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A288a49b2b3911a1e6e7172b724cc3e9e59c7b67286bb470c21340d96dfd88eae&amp;width=100%25&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
 
 ----11----
 
 Название:
-Памятник Достоевскому
+Памятник Ф. М. Достоевскому 
 
 Описание:
 Автор памятника — Любовь Михайловна Холина — создала эскиз гранитного памятника Достоевскому ещё в 1956 г. и в течение нескольких последующих лет дорабатывала его, 
@@ -194,7 +200,7 @@
 Однако этот проект не был осуществлён, поскольку потребовалось заменить гранитную скульптуру писателя на бронзовую.
 
 Ссылка на яндекс карты:
-<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A197014de4c90116dbed5f83b9e13b257ccbb51dee23c79053ca7fc5123f49125&amp;width=500&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
+<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A45eddd56059e9e535e282071630e4b3d1ff107eb5d62c7f486369197cc7a5473&amp;width=100%25&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
 
 ----12----
 
@@ -217,4 +223,4 @@
 Памятник был открыт 7 июня 1991 г. Он вызывает неоднозначную реакцию, поскольку пропорции тела были увеличены в 1,5 раза, и маленькая голова Петра I вместе с длинными пальцами рук придают всей композиции гротескный вид.
 
 Ссылка на яндекс карты:
-<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A79421c82f1fdb05f2b6ad04f888cbd9d97cdee1006ab8ee8cd295c40da4cf420&amp;width=500&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
+<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Ae33f8c0152a552c80671d6febb70c333d8a7c2ca223054298edd93c5ed00d8a9&amp;width=100%25&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>

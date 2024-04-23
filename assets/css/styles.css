@@ -317,6 +317,12 @@ a.btn-cta {
   margin-top: 15px;
 }
 
+@media (prefers-reduced-motion: no-preference) {
+  :root{
+    scroll-behavior: smooth;
+  }
+}
+
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
   .navbar-collapse {

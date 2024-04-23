@@ -2,46 +2,39 @@
 <html lang="en">
 <head>
     <title>SPB History</title>
-    <!-- Meta -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Responsive HTML5 website landing page for developers and startups">
     <meta name="author" content="Xiaoying Riley at 3rd Wave Media">    
-    <link rel="shortcut icon" href="favicon.ico">  
+    <link rel="shortcut icon" href="assets/images/logo1.ico">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
-    <!-- Global CSS -->
-    <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">   
-    <!-- Plugins CSS -->
+    <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/plugins/font-awesome/css/font-awesome.css">
-    <!-- Theme CSS -->  
     <link id="theme-style" rel="stylesheet" href="assets/css/styles.css">
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+
 </head> 
 
 <body>
-    <!-- ******HEADER****** --> 
     <header id="header" class="header">  
         <div class="container">       
             <h1 class="logo">
                 <a class="scrollto" href="#hero">
                     <span class="text"><span class="highlight">Памятники</span> СПб</span></a>
-            </h1><!--//logo-->
-        </div><!--//container-->
-    </header><!--//header-->
+            </h1>
+        </div>
+    </header>
 
     <div id="hero" class="hero-section">
 
         <div id="hero-carousel" class="hero-carousel carousel carousel-fade slide" data-ride="carousel" data-interval="10000">
 
-			<!-- Indicators -->
 			<ol class="carousel-indicators">
 				<li class="active" data-slide-to="0" data-target="#hero-carousel"></li>
 				<li data-slide-to="1" data-target="#hero-carousel"></li>
 				<li data-slide-to="2" data-target="#hero-carousel"></li>
 			</ol>
 
-			<!-- Wrapper for slides -->
 			<div class="carousel-inner">
 
 				<div class="item item-1 active">
@@ -50,11 +43,11 @@
 
 				            <h2 class="heading">Санкт-Петербург наполнен красивейшими памятниками<br class="hidden-xs"></h2>
 				            <p class="intro">Этот сайт поможет разобраться в их многообразии и позволит узнать много нового.</p>
-				            <a class="btn btn-primary btn-cta" href="https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm" target="_blank">Приступить</a>
+				            <a class="btn btn-primary btn-cta" href="#main">Приступить</a>
 
-    					</div><!--//item-content-inner-->
-					</div><!--//item-content-->
-				</div><!--//item-->
+    					</div>
+					</div>
+				</div>
 
 				<div class="item item-2">
 					<div class="item-content container">
@@ -62,11 +55,11 @@
 
 				            <h2 class="heading">Путешествуете по Северной столице?</h2>
 				            <p class="intro">Узнайте что посмотреть и узнать больше о истории России.</p>
-				            <a class="btn btn-primary btn-cta" href="https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm" target="_blank">Узнать</a>
+				            <a class="btn btn-primary btn-cta" href="#main">Узнать</a>
 
-    					</div><!--//item-content-inner-->
+    					</div>
 					</div>
-				</div><!--//item-->
+				</div>
 
 				<div class="item item-3">
 					<div class="item-content container">
@@ -74,19 +67,18 @@
 
 				            <h2 class="heading">Изучашь историю 20 века?</h2>
 				            <p class="intro">Посети все памятные места и удиви своего преподавателя.</p>
-				            <a class="btn btn-primary btn-cta" href="https://wrapbootstrap.com/theme/admin-appkit-admin-theme-angularjs-WB051SCJ1?ref=3wm" target="_blank">Продолжить</a>
+				            <a class="btn btn-primary btn-cta" href="#main">Продолжить</a>
 
-    					</div><!--//item-content-inner-->
+    					</div>
 					</div>
-				</div><!--//item-->
-			</div><!--//carousel-inner-->
+				</div>
+			</div>
+		</div>
+    </div>
 
-		</div><!--//carousel-->
-    </div><!--//hero-->
+    <script id="map" type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A7efbb32d84fb7ffc2c9fe82449505d37bdd8c7b953883ac49e6f7bd884302787&amp;width=100%25&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
 
-    <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A7efbb32d84fb7ffc2c9fe82449505d37bdd8c7b953883ac49e6f7bd884302787&amp;width=100%25&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
-
-    <main>
+    <main id="main">
         <section class="tiles-container">
             <div class="tile" style="height: 210px; background-image: url('assets/images/tsar.jpg'); background-position: center">
                 <a href="tcar.html" style="text-decoration: none">
@@ -192,8 +184,7 @@
             <small class="copyright">Copyright 2024 Misha and Denis</small>
         </div>
     </footer>
-     
-    <!-- Javascript -->          
+
     <script type="text/javascript" src="assets/plugins/jquery-1.12.3.min.js"></script>
     <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="assets/plugins/jquery-scrollTo/jquery.scrollTo.min.js"></script>     
